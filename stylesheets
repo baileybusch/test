@@ -1,5 +1,3 @@
-@import 'bourbon/bourbon';
-
 .image-gradient {
   $image-gradient-color-top: teal; 
   $transparency-top: .6;
